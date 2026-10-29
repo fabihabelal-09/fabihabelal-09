@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋. I am Fabiha Belal .
+CSE Student | Aspiring Computer Engineer
 
-<!--
-**fabihabelal-09/fabihabelal-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+- 🔭 Computer Science and Engineering student at East Delta University .
+- 🌱 currently learning C , Python and computer science fundamentals. 
+- 📚 Exploring new technologies and developing my technical skills .
+  
+ Currently Learning 
+- C Programming 
+- Python 
+- Git and GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ My Goal
+ - Learning programming fundamentals
+ - Improve my problem solving skills .
+   
